@@ -1,0 +1,155 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "1. Interpretação de textos",
+        "classes": { "amount": 1193, "duration": "100h 22m" },
+        "exercises": { "amount": 181, "duration": "79h 12m" },
+        "materials": { "amount": 53, "duration": "86h 03m" },
+        "isSubGroup": false,
+        "subGroupId": null
+      },
+      {
+        "id": 2,
+        "title": "2. Matemática para Concursos",
+        "classes": { "amount": 875, "duration": "85h 45m" },
+        "exercises": { "amount": 220, "duration": "95h 30m" },
+        "materials": { "amount": 67, "duration": "102h 15m" },
+        "isSubGroup": false,
+        "subGroupId": null,
+        "haveChildren": false
+      },
+      {
+        "id": 12,
+        "title": "Competência 01: Palavras, imagem e Vida Social",
+        "classes": { "amount": 875, "duration": "85h 45m" },
+        "exercises": { "amount": 220, "duration": "95h 30m" },
+        "materials": { "amount": 67, "duration": "102h 15m" },
+        "isSubGroup": true,
+        "subGroupId": "1",
+        "haveChildren": false
+      },
+      {
+        "id": 13,
+        "title": "Competência 02: Opniões e Pontos de Vista",
+        "classes": { "amount": 875, "duration": "85h 45m" },
+        "exercises": { "amount": 220, "duration": "95h 30m" },
+        "materials": { "amount": 67, "duration": "102h 15m" },
+        "isSubGroup": true,
+        "subGroupId": "1"
+      },
+      {
+        "id": 14,
+        "title": "1.1 Linguagem Verbal e Não-Verbal",
+        "classes": { "amount": 4, "duration": "1h 0m" },
+        "exercises": { "amount": 220, "duration": "95h 30m" },
+        "materials": { "amount": 67, "duration": "102h 15m" },
+        "isSubGroup": true,
+        "totalList": [
+          {
+          "title": "Aulas",
+          "subtitle": "Teoria + questões orientadas",
+          "amount": 4, "duration": "01:00:00",
+          "list": [
+            {
+              "title": "Estrutura e Formação de Palavra 1",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 2",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 3",
+              "time": "00:10:00",
+              "done": false
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 4: Um Passeio na Cozinha",
+              "time": "00:30:00",
+              "done": false
+            }
+          ]
+          },
+          {  
+          "title": "Exercícios",
+          "subtitle": "Exercícios + questões orientadas",
+          "amount": 4, "duration": "01:00:00",
+          "list": [
+            {
+              "title": "Estrutura e Formação de Palavra 1",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 2",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 3",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 4: Um Passeio na Cozinha",
+              "time": "00:30:00",
+              "done": true
+            }
+          ]
+          },
+           {  
+          "title": "Materiais", 
+          "subtitle": "Materiais + questões orientadas",
+          "amount": 4, "duration": "01:00:00",
+          "list": [
+            {
+              "title": "Estrutura e Formação de Palavra 1",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 2",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 3",
+              "time": "00:10:00",
+              "done": true
+            },
+            {
+              "title": "Estrutura e Formação de Palavra 4: Um Passeio na Cozinha",
+              "time": "00:30:00",
+              "done": false
+            }
+          ]
+          }
+        ],
+        "subGroupId": "13",
+        "haveChildren": false
+      },
+      {
+        "id": 15,
+        "title": "1.2 Estratégias empregadas na construção do Texto",
+        "classes": { "amount": 875, "duration": "85h 45m" },
+        "exercises": { "amount": 220, "duration": "95h 30m" },
+        "materials": { "amount": 67, "duration": "102h 15m" },
+        "isSubGroup": true,
+        "subGroupId": "13"
+      },
+      {
+        "id": 16,
+        "title": "Referências Culturais",
+        "classes": { "amount": 875, "duration": "85h 45m" },
+        "exercises": { "amount": 220, "duration": "95h 30m" },
+        "materials": { "amount": 67, "duration": "102h 15m" },
+        "isSubGroup": true,
+        "subGroupId": "15",
+        "haveChildren": false
+      }
+    ]
+  }
+  
